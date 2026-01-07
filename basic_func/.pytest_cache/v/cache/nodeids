@@ -1,0 +1,9 @@
+[
+  "test_func.py::test_add",
+  "test_func.py::test_div",
+  "test_func.py::test_greet",
+  "test_func.py::test_mul",
+  "test_func.py::test_power",
+  "test_func.py::test_square",
+  "test_func.py::test_sub"
+]
